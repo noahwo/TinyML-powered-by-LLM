@@ -1,2 +1,1 @@
-# TinyML-powered-by-LLM
-Leveraging Large Language Models for Lifecycle Management of TinyML: Automation and Pipeline Optimization
+## The source code repository will be open-sourced after the thesis is published.
